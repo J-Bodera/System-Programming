@@ -1,0 +1,1 @@
+## Synchronizacja wątków w Linuxie
